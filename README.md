@@ -1,3 +1,3 @@
-sunxi-can-driver
+This repository is a historical code dump saved from email thread.
 
-sunxi CAN controller driver use socketcan refer to the SJA1000 driver
+sunxi-can-driver has been merged into Linux kernel 4.4
